@@ -1,0 +1,18 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{1407.6273}
+B.~Craps, O.~Evnin, and J.~Vanhoof, {\it {Renormalization group, secular term
+  resummation and AdS (in)stability}},  {\em JHEP} {\bf 10} (2014) 048,
+  [\href{http://arxiv.org/abs/1407.6273}{{\tt arXiv:1407.6273}}].
+
+\bibitem{1508.04943}
+B.~Craps, O.~Evnin, and J.~Vanhoof, {\it {Ultraviolet asymptotics and singular
+  dynamics of AdS perturbations}},  {\em JHEP} {\bf 10} (2015) 079,
+  [\href{http://arxiv.org/abs/1508.0494}{{\tt arXiv:1508.0494}}].
+
+\bibitem{1507.08261}
+S.~R. Green, A.~Maillard, L.~Lehner, and S.~L. Liebling, {\it {Islands of
+  stability and recurrence times in AdS}},  {\em Phys. Rev.} {\bf D92} (2015),
+  no.~8 084001, [\href{http://arxiv.org/abs/1507.0826}{{\tt arXiv:1507.0826}}].
+
+\end{thebibliography}\endgroup
